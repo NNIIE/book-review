@@ -6,3 +6,4 @@
   * [헤드 퍼스트 디자인 패턴](http://www.yes24.com/Product/Goods/108192370)
   * [혼자 공부하는 컴퓨터 구조+운영체제](https://www.yes24.com/Product/Goods/111378840)
   * [그림으로 배우는 네트워크 원리](https://www.yes24.com/Product/Goods/88244509)
+  * [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.yes24.com/Product/Goods/102819435)
