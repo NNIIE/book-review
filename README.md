@@ -7,3 +7,4 @@
   * [혼자 공부하는 컴퓨터 구조+운영체제](https://www.yes24.com/Product/Goods/111378840)
   * [그림으로 배우는 네트워크 원리](https://www.yes24.com/Product/Goods/88244509)
   * [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.yes24.com/Product/Goods/102819435)
+  * [아파치 카프카 애플리케이션 프로그래밍 with 자바](https://www.yes24.com/Product/Goods/99122569)
