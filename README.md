@@ -9,3 +9,4 @@
   * [가상 면접 사례로 배우는 대규모 시스템 설계 기초](https://www.yes24.com/Product/Goods/102819435)
   * [아파치 카프카 애플리케이션 프로그래밍 with 자바](https://www.yes24.com/Product/Goods/99122569)
   * [누구나 자료 구조와 알고리즘](https://www.yes24.com/Product/Goods/105385257)
+  * [개발자를 위한 레디스](https://www.yes24.com/Product/Goods/123182350)
