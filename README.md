@@ -10,4 +10,4 @@
   * [도메인 주도 개발 시작하기](https://www.yes24.com/Product/Goods/108431347)
   * [아파치 카프카 애플리케이션 프로그래밍 with 자바](https://www.yes24.com/Product/Goods/99122569)
   * [개발자를 위한 레디스](https://www.yes24.com/Product/Goods/123182350)
-  * [Ream MySQL 8.0](https://www.yes24.com/product/goods/103415627)
+  * [Real MySQL 8.0](https://www.yes24.com/product/goods/103415627)
