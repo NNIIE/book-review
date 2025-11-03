@@ -13,3 +13,4 @@
   * [개발자를 위한 레디스](https://www.yes24.com/Product/Goods/123182350)
   * [Real MySQL 8.0 1](https://www.yes24.com/product/goods/103415627)
   * [Kotlin in Action](https://www.yes24.com/product/goods/142690359)
+  * [스타트업 서비스 설계는 처음인데요](https://www.yes24.com/product/goods/158727530)
